@@ -1,0 +1,40 @@
+.container-countdown {
+    margin-top: 5px;
+  }
+  .counter-countdown .title-countdown {
+      color: blue;
+      font-size: 16px;
+      font-size: 1.6rem;
+      display: block;
+      margin-bottom: 15px;
+      font-family: 'Raleway', sans-serif;
+      font-weight: 500;
+  }
+  .counter-countdown .sq-countdown {
+      color: blue;
+      display: inline-block;
+      text-align: center;
+  }
+  .counter-countdown .sq-countdown .bord-countdown {
+      border: 1px solid blue;
+      padding: 12px 15px;
+      margin-right: 18px;
+      text-indent: -7px;
+      font-family: 'Helvetica';
+      font-size: 22px;
+      font-size: 2.2rem;
+      margin-bottom: 5px;
+      width: 54px;
+  }
+  .counter-countdown .sq-countdown span {
+      clear: both;
+      display: block;
+      text-indent: -15px;
+      font-size: 16px;
+      font-size: 1.6rem;
+      font-family: "Helvetica";
+  }
+  .well-countdown {
+    text-align: center;
+    max-width: 400px;
+  }
